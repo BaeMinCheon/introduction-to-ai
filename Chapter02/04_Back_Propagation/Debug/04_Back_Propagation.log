@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\git\introduction-to-ai\chapter02\04_back_propagation\main.cpp(7): warning C4305: 'initializing': truncation from 'double' to 'float'
+  04_Back_Propagation.vcxproj -> D:\Git\introduction-to-ai\Chapter02\Debug\04_Back_Propagation.exe
+  04_Back_Propagation.vcxproj -> D:\Git\introduction-to-ai\Chapter02\Debug\04_Back_Propagation.pdb (Full PDB)

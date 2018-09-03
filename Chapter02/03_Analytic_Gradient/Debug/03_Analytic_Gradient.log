@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\git\introduction-to-ai\chapter02\03_analytic_gradient\main.cpp(7): warning C4305: 'initializing': truncation from 'double' to 'float'
+  03_Analytic_Gradient.vcxproj -> D:\Git\introduction-to-ai\Chapter02\Debug\03_Analytic_Gradient.exe
+  03_Analytic_Gradient.vcxproj -> D:\Git\introduction-to-ai\Chapter02\Debug\03_Analytic_Gradient.pdb (Full PDB)

@@ -1,0 +1,5 @@
+﻿  main.cpp
+d:\git\introduction-to-ai\chapter02\02_numerical_gradient\main.cpp(7): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\git\introduction-to-ai\chapter02\02_numerical_gradient\main.cpp(8): warning C4305: 'initializing': truncation from 'double' to 'float'
+  02_Numerical_Gradient.vcxproj -> D:\Git\introduction-to-ai\Chapter02\Debug\02_Numerical_Gradient.exe
+  02_Numerical_Gradient.vcxproj -> D:\Git\introduction-to-ai\Chapter02\Debug\02_Numerical_Gradient.pdb (Full PDB)
